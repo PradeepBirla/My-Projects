@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "100345306661",
+    "firebase_url": "https://complaint-system-37a1c.firebaseio.com",
+    "project_id": "complaint-system-37a1c",
+    "storage_bucket": "complaint-system-37a1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100345306661:android:89e00fea9bdf9db619e9cc",
+        "android_client_info": {
+          "package_name": "com.example.complaintsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100345306661-evkf136e2lu76374brlhnhotamj7tkrs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfXvh8zVCpepEL7M49SSl-eYItTzWolno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100345306661-evkf136e2lu76374brlhnhotamj7tkrs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100345306661:android:2100526601790ad119e9cc",
+        "android_client_info": {
+          "package_name": "com.example.watercomplaintsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100345306661-evkf136e2lu76374brlhnhotamj7tkrs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfXvh8zVCpepEL7M49SSl-eYItTzWolno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100345306661-evkf136e2lu76374brlhnhotamj7tkrs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
